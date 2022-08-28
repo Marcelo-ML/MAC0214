@@ -5,7 +5,7 @@ Passei os 6 primeiro problemas do contest [August Long 2022 (Rated)](https://www
 
 ## 14/AGO/2022 (2 horas)
 Fiz o sétimo problema do mesmo contest e passei bastante tempo pensando no último. No final das contas a solução oficial era só uma análise exaustiva de casos, e eu tinha esquecido alguns nas minhas submissões.
-Mas foi um resultado bom no final, considerando que as ideias dos problemas fáceis foram bem rápidos de ter e codar.
+Mas foi um resultado bom no final, considerando que as ideias dos problemas fáceis foram bem rápidas de ter e codar.
 Os problemas estão na pasta Códigos/AUG221D.
 
 ## 20/AGO/2022 (10 horas)
@@ -18,9 +18,11 @@ Os códigos estão na pasta Times/CERC16
 
 ## 27/AGO/2022 (2 horas)
 Fiz ao vivo o contest [Educational Codeforces Round 134 (Rated for Div. 2)](https://codeforces.com/contest/1721), em que passei os problemas de A a D.
-Os códigos estão na pasta Códigos/CF-EDU134.
+O resultado final foi bastante bom, com meu rating no Codeforces passando de 569 para 1030.
+Os códigos estão na pasta Códigos/CF_EDU134.
 
 ## 28/AGO/2022 (3 horas de upsolving)
-Li o editorial do problema do 3 do contest anterior. Até entendi a ideia do problema, que envolvia coisas novas para mim. Estudei um bocado sobre análise de repetição em strings e codei por conta própria um algoritmo para computar a "função prefixo" (baseado no algoritmo KMP). Apesar disso, tomei TLE e não soube bem como otimizar meu código.
+Li o editorial do problema E do contest anterior. Até entendi a ideia do problema, que envolvia coisas novas para mim. Estudei um bocado sobre análise de repetição em strings e codei por conta própria um algoritmo para computar a "função prefixo" (baseado no algoritmo KMP). Apesar disso, tomei TLE e não soube bem como otimizar meu código.
+O código está na pasta Código/CF_EDU134
 
 ## TOTAL DE HORAS :: 19 HORAS
