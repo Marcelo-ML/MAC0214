@@ -25,4 +25,8 @@ Os códigos estão na pasta Códigos/CF_EDU134.
 Li o editorial do problema E do contest anterior. Até entendi a ideia do problema, que envolvia coisas novas para mim. Estudei um bocado sobre análise de repetição em strings e codei por conta própria um algoritmo para computar a "função prefixo" (baseado no algoritmo KMP). Apesar disso, tomei TLE e não soube bem como otimizar meu código.
 O código está na pasta Código/CF_EDU134
 
-## TOTAL DE HORAS :: 19 HORAS
+## 30/AGO/2022 (2 horas + 3 horas de upsolving)
+Fiz o contest [Codeforces Round #817 (Div. 4)](https://codeforces.com/contest/1722), e passei os problemas de A a D. Foi abaixo do que eu esperava, considerando que os problemas eram bem objetivos e eu me enrolei em algumas coisas básicas. No upsolving fiz os outros 3 problemas, sendo que para a E eu li o editorial: minha solução estava recebendo TLE, e então eu vi que a ideia da solução oficial era realmente mais eficiente que o que eu tinha em mente.
+Os códigos estão na pasta Códigos/CF_RND817-DIV4
+
+## TOTAL DE HORAS :: 24 HORAS
