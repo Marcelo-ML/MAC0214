@@ -29,4 +29,12 @@ O código está na pasta Código/CF_EDU134
 Fiz o contest [Codeforces Round #817 (Div. 4)](https://codeforces.com/contest/1722), e passei os problemas de A a D. Foi abaixo do que eu esperava, considerando que os problemas eram bem objetivos e eu me enrolei em algumas coisas básicas. No upsolving fiz os outros 3 problemas, sendo que para a E eu li o editorial: minha solução estava recebendo TLE, e então eu vi que a ideia da solução oficial era realmente mais eficiente que o que eu tinha em mente.
 Os códigos estão na pasta Códigos/CF_RND817-DIV4
 
-## TOTAL DE HORAS :: 24 HORAS
+## 09/SET/2022 (4 horas)
+No contest [September Long 2022 (Rated)](https://www.codechef.com/SEP221C), fiz os 4 primeiros problemas relativamente rápido e depois de pensar um pouco fiz também o quinto. Tive a ideia certa do sexto e comecei a codar, mas o código estava ficando muito confuso e não consegui avançar na implementação.
+Os códigos estão na pasta Códigos/SEP221C.
+
+## 10/SET/2022 (2 horas)
+Recomecei do zero o código e passei o sexto problema.
+O código está na pasta Códigos/SEP221C.
+
+## TOTAL DE HORAS :: 30 HORAS
