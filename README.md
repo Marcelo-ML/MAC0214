@@ -41,9 +41,13 @@ O código está na pasta Códigos/SEP221C.
 Fiz ao vivo o contest [Codeforces Round #820 (Div. 3)](https://codeforces.com/contest/1729), e passei os problemas A, B e D. No C me enrolei muito na hora da prova mas consegui fazer bem rápido no upsolving. O E era bem legal: era um problema interativo e o código precisava ser malandro para passar. Espero o editorial para fazer o upsolving do F e do G, porque são problemas de string e eu tenho mais dificuldades com problemas assim.
 Os códigos estão na pasta Códigos/CF_RND820-DIV3.
 
+## 14/SET (1 hora de upsolving)
+Fiz o upsolving fdo problema F desse último contest, que era só hashing.
+O código está na pasta Código/CF_RND820-DIV3.
+
 ## 17/SET (1 hora + 5 horas)
 Seletiva USP para a Maratona de Programação da SBC. No warmup, fizemos um problema dos 3 disponíveis. Na prova de verdade, passamos bem rápido os quatro problemas mais fáceis, mas não conseguimos progredir em nenhum outro.
 No final das contas, foi um bom resultado: ficamos em sexto lugar no ranking geral, o que foi suficiente para garantir a vaga para a primeira fase da Maratona da SBC que é reservada para o melhor time de alunos do primeiro ano.
 (Os códigos não estão aqui.)
 
-## TOTAL DE HORAS :: 39 HORAS
+## TOTAL DE HORAS :: 40 HORAS
