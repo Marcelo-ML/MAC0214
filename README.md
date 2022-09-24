@@ -50,4 +50,7 @@ Seletiva USP para a Maratona de Programação da SBC. No warmup, fizemos um prob
 No final das contas, foi um bom resultado: ficamos em sexto lugar no ranking geral, o que foi suficiente para garantir a vaga para a primeira fase da Maratona da SBC que é reservada para o melhor time de alunos do primeiro ano.
 (Os códigos não estão aqui.)
 
-## TOTAL DE HORAS :: 40 HORAS
+## 24/SET (5 horas)
+Fase Zero da Maratona de Programação da SBC. Fizemos 7 problemas dos 12, sendo que eu passei 4 deles e fiquei bem feliz de passar o L, que era um problema mais difícil de TN. Os códigos estão na pasta Times/FaseZero.
+
+## TOTAL DE HORAS :: 45 HORAS
