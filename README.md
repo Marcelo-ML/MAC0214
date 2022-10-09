@@ -53,4 +53,15 @@ No final das contas, foi um bom resultado: ficamos em sexto lugar no ranking ger
 ## 24/SET (5 horas)
 Fase Zero da Maratona de Programação da SBC. Fizemos 7 problemas dos 12, sendo que eu passei 4 deles e fiquei bem feliz de passar o L, que era um problema mais difícil de TN. Os códigos estão na pasta Times/FaseZero.
 
-## TOTAL DE HORAS :: 45 HORAS
+## 07/OUT (1 hora)
+Fizemos o upsolving dos problemas D e K da Seletiva USP, que eram de tópicos que já sabíamos e a implementação não era difícil (apesar que o D era melhor codado em python, e não estamos acostumados com isso).
+Os códigos estão na pasta Times/SeletivaUSP.
+
+## 08/OUT (1 hora + 5 horas)
+Fase 1 da Maratona de Programação da SBC. No warmup passamos um problema.
+Na prova em si fizemos seis problemas e eu fiquei bem feliz de passar o C. Podíamos ter passado o F, mas acabamos tentando implementar uma ideia mais complicada do que era necessário.
+
+Tivemos um resultado muito bom e bem acima do que esperávamos: ficamos em quarto lugar da sede.
+(Os código não estão aqui.)
+
+## TOTAL DE HORAS :: 53 HORAS
