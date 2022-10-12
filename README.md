@@ -42,7 +42,7 @@ Fiz ao vivo o contest [Codeforces Round #820 (Div. 3)](https://codeforces.com/co
 Os códigos estão na pasta Códigos/CF_RND820-DIV3.
 
 ## 14/SET (1 hora de upsolving)
-Fiz o upsolving fdo problema F desse último contest, que era só hashing.
+Fiz o upsolving do problema F desse último contest, que era só hashing.
 O código está na pasta Código/CF_RND820-DIV3.
 
 ## 17/SET (1 hora + 5 horas)
@@ -60,8 +60,12 @@ Os códigos estão na pasta Times/SeletivaUSP.
 ## 08/OUT (1 hora + 5 horas)
 Fase 1 da Maratona de Programação da SBC. No warmup passamos um problema.
 Na prova em si fizemos seis problemas e eu fiquei bem feliz de passar o C. Podíamos ter passado o F, mas acabamos tentando implementar uma ideia mais complicada do que era necessário.
-
 Tivemos um resultado muito bom e bem acima do que esperávamos: ficamos em quarto lugar da sede.
 (Os código não estão aqui.)
 
-## TOTAL DE HORAS :: 53 HORAS
+## 11/OUT (2 horas)
+Fiz ao vivo o contest[Codeforces Round #826 (Div. 3)](https://codeforces.com/contest/1741). Passei os problemas de A a E na hora da prova, mas depois o meu E foi hackeado :( porque havia um loop dentro da dp que realmente era mais lento do que se podia.
+Apesar disso, achei meu resultado bem consistente, e meu novo rating no Codeforces é 1259 (+130) = 1389.
+Os códigos estão na pasta Códigos/CF_RND826-DIV3.
+
+## TOTAL DE HORAS :: 55 HORAS
