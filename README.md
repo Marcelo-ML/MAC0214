@@ -61,11 +61,16 @@ Os códigos estão na pasta Times/SeletivaUSP.
 Fase 1 da Maratona de Programação da SBC. No warmup passamos um problema.
 Na prova em si fizemos seis problemas e eu fiquei bem feliz de passar o C. Podíamos ter passado o F, mas acabamos tentando implementar uma ideia mais complicada do que era necessário.
 Tivemos um resultado muito bom e bem acima do que esperávamos: ficamos em quarto lugar da sede.
-(Os código não estão aqui.)
+(Os códigos não estão aqui.)
 
 ## 11/OUT (2 horas)
 Fiz ao vivo o contest[Codeforces Round #826 (Div. 3)](https://codeforces.com/contest/1741). Passei os problemas de A a E na hora da prova, mas depois o meu E foi hackeado :( porque havia um loop dentro da dp que realmente era mais lento do que se podia.
 Apesar disso, achei meu resultado bem consistente, e meu novo rating no Codeforces é 1259 (+130) = 1389.
 Os códigos estão na pasta Códigos/CF_RND826-DIV3.
 
-## TOTAL DE HORAS :: 55 HORAS
+## 14/OUT (4 horas)
+Meu time fez o upsolving de alguns problemas da Fase 1 da Maratona de Programação da SBC.
+Fizemos os problemas F (que era só map), H (tivemos que aprender Tarjan e a trabalhar com grafos condensados) e N (que era multiset com alguns detalhes de implementação).
+Os códigos estão na pasta Times/FaseUm.
+
+## TOTAL DE HORAS :: 59 HORAS
