@@ -64,7 +64,7 @@ Tivemos um resultado muito bom e bem acima do que esperávamos: ficamos em quart
 (Os códigos não estão aqui.)
 
 ## 11/OUT (2 horas)
-Fiz ao vivo o contest[Codeforces Round #826 (Div. 3)](https://codeforces.com/contest/1741). Passei os problemas de A a E na hora da prova, mas depois o meu E foi hackeado :( porque havia um loop dentro da dp que realmente era mais lento do que se podia.
+Fiz ao vivo o contest [Codeforces Round #826 (Div. 3)](https://codeforces.com/contest/1741). Passei os problemas de A a E na hora da prova, mas depois o meu E foi hackeado :( porque havia um loop dentro da dp que realmente era mais lento do que se podia.
 Apesar disso, achei meu resultado bem consistente, e meu novo rating no Codeforces é 1259 (+130) = 1389.
 Os códigos estão na pasta Códigos/CF_RND826-DIV3.
 
@@ -73,4 +73,11 @@ Meu time fez o upsolving de alguns problemas da Fase 1 da Maratona de Programaç
 Fizemos os problemas F (que era só map), H (tivemos que aprender Tarjan e a trabalhar com grafos condensados) e N (que era multiset com alguns detalhes de implementação).
 Os códigos estão na pasta Times/FaseUm.
 
-## TOTAL DE HORAS :: 59 HORAS
+## 15/OUT (2 horas)
+Fiz ao vivo o contest [Codeforces Global Round 23](https://codeforces.com/contest/1746).
+Passei os problemas A, B, C em cerca de meia hora e passei o resto do tempo pensando no D (o E era meio estranho e os outros pareciam mais técnicos).
+De fato, em geral eu consigo fazer os problemas "fáceis" dos rounds rápido, mas travo muito na hora de ir para aqueles que usam coisas mais técnicas ou códigos mais embolados.
+De toda forma, o resultado final foi bom, e meu novo rating no Codeforces é 1389 (+127) = 1516.
+Os códigos estão na pasta Códigos/CF_GLOBAL23.
+
+## TOTAL DE HORAS :: 60 HORAS
