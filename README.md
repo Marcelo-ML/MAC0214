@@ -80,4 +80,12 @@ De fato, em geral eu consigo fazer os problemas "fáceis" dos rounds rápido, ma
 De toda forma, o resultado final foi bom, e meu novo rating no Codeforces é 1389 (+127) = 1516.
 Os códigos estão na pasta Códigos/CF_GLOBAL23.
 
-## TOTAL DE HORAS :: 60 HORAS
+## 16/OUT (3 horas)
+Fiz o problema D do último contest, que era uma ideia de pd com map, e eu tive que refinar bastante as otimizações para conseguir passar.
+O código está na pasta Código/CF_GLOBAL23.
+
+Participei ao vivo do contest [Codeforces Round #828 (Div. 3)](http://codeforces.com/contest/1744).
+Passei os problemas A a D e E1. O F pareceu bem interessante (talvez alguma ideia de segtree?) mas não consegui desenvolver muito.
+Os códigos estão na pasta Códigos/CF_RND828-DIV3.
+
+## TOTAL DE HORAS :: 62 HORAS
