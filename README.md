@@ -88,4 +88,16 @@ Participei ao vivo do contest [Codeforces Round #828 (Div. 3)](http://codeforces
 Passei os problemas A a D e E1. O F pareceu bem interessante (talvez alguma ideia de segtree?) mas não consegui desenvolver muito.
 Os códigos estão na pasta Códigos/CF_RND828-DIV3.
 
-## TOTAL DE HORAS :: 62 HORAS
+## 17/OUT (1 hora)
+Fiz o upsolving dos problemas E e F desse último contest.
+Para o E era só ajeitar um pouco ideia que eu já tinha tido e para o F eu li o editorial e fiz a solução proposta (que nem era muito técnica).
+Os códigos estão na pasta Códigos/CF_RND828-DIV3.
+
+## 23/OUT (4 horas)
+Fiz ao vivo os contests [Codeforces Round #829 (Div. 2)](https://codeforces.com/contest/1754) e [Codeforces Round #830 (Div. 2)](https://codeforces.com/contest/1732).
+No primeiro, tive um resultado bom, e só não passei o E e o F.
+No segundo, tive um resultado ruim, e só passei o A e o B. O C e o D não eram muito difíceis, e tinham subtasks fáceis, mas mesmo assim eu não consegui desenvolver as ideias organizadas para passá-los.
+Meu novo rating no Codeforces é 1498 (+96) (-78) = 1516.
+Os códigos estão nas pastas Códigos/CF_RND829-DIV2 e CF_RND830-DIV2.
+
+## TOTAL DE HORAS :: 67 HORAS
