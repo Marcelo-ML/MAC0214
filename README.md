@@ -100,4 +100,15 @@ No segundo, tive um resultado ruim, e só passei o A e o B. O C e o D não eram 
 Meu novo rating no Codeforces é 1498 (+96) (-78) = 1516.
 Os códigos estão nas pastas Códigos/CF_RND829-DIV2 e CF_RND830-DIV2.
 
-## TOTAL DE HORAS :: 67 HORAS
+## 24/OUT (1 hora)
+Fiz o upsolving do problema E do Codeforces Round 829. Não era muito difícil de implementar, mas a continha era um pouco chata.
+O código está na pasta Códigos/CF_RND829-DIV2.
+
+## 29/OUT (2 horas + 3 horas)
+Fiz o upsolving do contest [Codeforces Round #830 (Div. 2)](https://codeforces.com/contest/1732). Passei o C1 e o C2 com uma ideia de busca binária e o D1 que era de análise amortizada.
+Os códigos estão na pasta Códigos/CF_RND830-DIV2.
+
+Depois, simulei o contest [Codeforces Round #811 (Div. 3)](https://codeforces.com/contest/1714). No tempo, passei os problemas A, B, C, E. Depois ainda consegui passar o D (estava dando WA num caso particular).
+Os códigos estão na pasta Códigos/CF_RND811-DIV3.
+
+## TOTAL DE HORAS :: 73 HORAS
