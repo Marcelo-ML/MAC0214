@@ -126,8 +126,11 @@ O código está na pasta Times/ACPC2017.
 Depois simulei o contest [Codeforces Round #832 (Div. 2)](https://codeforces.com/contest/1747), e passei os problemas A, B, C sem grandes dificuldades.
 Os códigos estão na pasta Códigos/CF_RND832-DIV2.
 
-## 06/NOV (1 hora)
+## 06/NOV (1 hora + 2 horas)
 Fiz o upsolving do problema D do último contest.
 O código está na pasta Códigos/CF_RND832-DIV2.
 
-## TOTAL DE HORAS :: 86 HORAS
+Depois fiz ao vivo o contest [CodeTON Round 3 (Div. 1 + Div. 2)](https://codeforces.com/contest/1750), em que passei os problemas de A a D. Foi um resultado bom, e o D possivelmente foi o problema mais trabalhoso que eu já passei em um round ao vivo. Meu novo rating no Codeforces é 1462 (+71) = 1587.
+Os códigos estão na pasta Códigos/CF_CODETON3.
+
+## TOTAL DE HORAS :: 88 HORAS
