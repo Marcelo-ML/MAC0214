@@ -8,6 +8,10 @@ Fiz o sétimo problema do mesmo contest e passei bastante tempo pensando no últ
 Mas foi um resultado bom no final, considerando que as ideias dos problemas fáceis foram bem rápidas de ter e codar.
 Os problemas estão na pasta Códigos/AUG221D.
 
+## 19/AGO (5 horas)
+Fiz com meu time a Seletiva USP 2019 ([2019 USP Try-outs](https://codeforces.com/gym/102299)). Os problemas estavam bem acima do nosso nível (só passamos 4) mas foi interessante para ter uma ideia da dinâmica de time.
+Os códigos estão na pasta Times/SeletivaUSP2019.
+
 ## 20/AGO (10 horas)
 O primeiro contest do dia foi o [2012 Nordic Collegiate Programming Contest (NCPC)](https://codeforces.com/gym/100112). Os problemas eram de nível médio, em geral ligeiramente acima do que consigo fazer atualmente. Dos 8 problemas que passamos, codei o A, o B (que tinha uma ideia bem instrutiva sobre segtrees) e o G. Pensei bastante no L, mas não consegui fazê-lo.
 Os códigos estão na pasta Times/NCPC2012.
@@ -111,4 +115,19 @@ Os códigos estão na pasta Códigos/CF_RND830-DIV2.
 Depois, simulei o contest [Codeforces Round #811 (Div. 3)](https://codeforces.com/contest/1714). No tempo, passei os problemas A, B, C, E. Depois ainda consegui passar o D (estava dando WA num caso particular).
 Os códigos estão na pasta Códigos/CF_RND811-DIV3.
 
-## TOTAL DE HORAS :: 73 HORAS
+## 02/NOV (4 horas)
+Fiz com meu time o contest [2017 ACM Amman Collegiate Programming Contest](https://codeforces.com/gym/101498). Passamos 9 dos 13 problemas, o que foi um resultado dentro do esperado considerando que era um contest médio (3 estrelas).
+Os códigos estão na pasta Times/ACPC2017.
+
+## 05/NOV (1 hora + 2 horas)
+Fiz o upsolving do problema G da ACPC, que era só brutar com uma pequena otimização.
+O código está na pasta Times/ACPC2017.
+
+Depois simulei o contest [Codeforces Round #832 (Div. 2)](https://codeforces.com/contest/1747), e passei os problemas A, B, C sem grandes dificuldades.
+Os códigos estão na pasta Códigos/CF_RND832-DIV2.
+
+## 06/NOV (1 hora)
+Fiz o upsolving do problema D do último contest.
+O código está na pasta Códigos/CF_RND832-DIV2.
+
+## TOTAL DE HORAS :: 86 HORAS
