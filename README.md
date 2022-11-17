@@ -133,4 +133,8 @@ O código está na pasta Códigos/CF_RND832-DIV2.
 Depois fiz ao vivo o contest [CodeTON Round 3 (Div. 1 + Div. 2)](https://codeforces.com/contest/1750), em que passei os problemas de A a D. Foi um resultado bom, e o D possivelmente foi o problema mais trabalhoso que eu já passei em um round ao vivo. Meu novo rating no Codeforces é 1462 (+71) = 1587.
 Os códigos estão na pasta Códigos/CF_CODETON3.
 
-## TOTAL DE HORAS :: 88 HORAS
+## 11/NOV (4 horas)
+Fiz com meu time o contest [2021 ICPC Gran Premio de Mexico 2da Fecha](https://codeforces.com/gym/103306). Passamos só 5 dos 11 problemas, e acabamos não passando um muito fácil (que era o D) por um erro tosco.
+Os códigos estão na pasta Times/Mexico2021.
+
+## TOTAL DE HORAS :: 92 HORAS
