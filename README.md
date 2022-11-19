@@ -137,4 +137,8 @@ Os códigos estão na pasta Códigos/CF_CODETON3.
 Fiz com meu time o contest [2021 ICPC Gran Premio de Mexico 2da Fecha](https://codeforces.com/gym/103306). Passamos só 5 dos 11 problemas, e acabamos não passando um muito fácil (que era o D) por um erro tosco.
 Os códigos estão na pasta Times/Mexico2021.
 
-## TOTAL DE HORAS :: 92 HORAS
+## 19/NOV (2 horas)
+Fiz o upsolving desse último contest. Li o editorial para os problemas que não tínhamos passado e tinha algumas ideias bem interessantes. Codei o D e o K.
+Os códigos estão na pasta Times/Mexico2021.
+
+## TOTAL DE HORAS :: 94 HORAS
