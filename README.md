@@ -141,4 +141,11 @@ Os códigos estão na pasta Times/Mexico2021.
 Fiz o upsolving desse último contest. Li o editorial para os problemas que não tínhamos passado e tinha algumas ideias bem interessantes. Codei o D e o K.
 Os códigos estão na pasta Times/Mexico2021.
 
-## TOTAL DE HORAS :: 94 HORAS
+## 23/NOV (2 horas)
+Fiz o contest [Codeforces Round #834 (Div. 3)](https://codeforces.com/contest/1759), em que passei todos os problemas menos o F. Os códigos estão na pasta Códigos/CF_RND834-DIV3.
+
+## 24/NOV (2 horas)
+Fiz ao vivo o contest [Codeforces Global Round 24](https://codeforces.com/contest/1764). Passei os problemas até o D, o que foi acima do esperado (no outro Global eu tinha passado só 3 problemas). O meu novo rating no Codeforces é 1587 (+127) = 1714.
+Os códigos estão na pasta Códigos/CF_GLOBAL24.
+
+## TOTAL DE HORAS :: 98 HORAS
