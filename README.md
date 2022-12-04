@@ -148,4 +148,12 @@ Fiz o contest [Codeforces Round #834 (Div. 3)](https://codeforces.com/contest/17
 Fiz ao vivo o contest [Codeforces Global Round 24](https://codeforces.com/contest/1764). Passei os problemas até o D, o que foi acima do esperado (no outro Global eu tinha passado só 3 problemas). O meu novo rating no Codeforces é 1587 (+127) = 1714.
 Os códigos estão na pasta Códigos/CF_GLOBAL24.
 
-## TOTAL DE HORAS :: 98 HORAS
+## 03/DEZ (3 horas)
+Fiz o contest [Codeforces Round #805 (Div. 3)](https://codeforces.com/contest/1702), e consegui passar os problemas de A a D.
+Fiquei agarrado no E por muito tempo porque tinha um caso que eu não tinha considerado que deixava omeu grafo um pouco degenerado.
+No upsolving, consegui resolver isso e passar o problema. Também dei uma olhada no F (que não era difícil) e consegui passá-lo.
+Não mexi muito no G porque tinha uma ideia de LCA e eu não fiquei muito confortável com as ideias tentando codar LCA.
+
+Os códigos estão na pasta Códigos/CF_RND805-DIV3.
+
+## TOTAL DE HORAS :: 101 HORAS
