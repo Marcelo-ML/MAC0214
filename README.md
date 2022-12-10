@@ -29,7 +29,7 @@ Os códigos estão na pasta Códigos/CF_EDU134.
 Li o editorial do problema E do contest anterior. Até entendi a ideia do problema, que envolvia coisas novas para mim. Estudei um bocado sobre análise de repetição em strings e codei por conta própria um algoritmo para computar a "função prefixo" (baseado no algoritmo KMP). Apesar disso, tomei TLE e não soube bem como otimizar meu código.
 O código está na pasta Código/CF_EDU134.
 
-## 30/AGO (2 horas + 3 horas de upsolving)
+## 30/AGO (2 horas + 2 horas de upsolving)
 Fiz o contest [Codeforces Round #817 (Div. 4)](https://codeforces.com/contest/1722), e passei os problemas de A a D. Foi abaixo do que eu esperava, considerando que os problemas eram bem objetivos e eu me enrolei em algumas coisas básicas. No upsolving fiz os outros 3 problemas, sendo que para a E eu li o editorial: minha solução estava recebendo TLE, e então eu vi que a ideia da solução oficial era realmente mais eficiente que o que eu tinha em mente.
 Os códigos estão na pasta Códigos/CF_RND817-DIV4.
 
@@ -41,7 +41,7 @@ Os códigos estão na pasta Códigos/SEP221C.
 Recomecei do zero o código e passei o sexto problema. O resultado foi bom, considerando que no Div. 3 só uma pessoa passou o sétimo problema e ninguém passou o oitavo.
 O código está na pasta Códigos/SEP221C.
 
-## 12/SET (2 horas + 1 hora de upsolving)
+## 12/SET (2 horas + 2 horas de upsolving)
 Fiz ao vivo o contest [Codeforces Round #820 (Div. 3)](https://codeforces.com/contest/1729), e passei os problemas A, B e D. No C me enrolei muito na hora da prova mas consegui fazer bem rápido no upsolving. O E era bem legal: era um problema interativo e o código precisava ser malandro para passar. Espero o editorial para fazer o upsolving do F e do G, porque são problemas de string e eu tenho mais dificuldades com problemas assim.
 Os códigos estão na pasta Códigos/CF_RND820-DIV3.
 
