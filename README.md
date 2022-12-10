@@ -25,7 +25,7 @@ Fiz ao vivo o contest [Educational Codeforces Round 134 (Rated for Div. 2)](http
 O resultado final foi bastante bom, com meu rating no Codeforces passando de 569 para 1030.
 Os códigos estão na pasta Códigos/CF_EDU134.
 
-## 28/AGO (3 horas de upsolving)
+## 28/AGO (2 horas de upsolving)
 Li o editorial do problema E do contest anterior. Até entendi a ideia do problema, que envolvia coisas novas para mim. Estudei um bocado sobre análise de repetição em strings e codei por conta própria um algoritmo para computar a "função prefixo" (baseado no algoritmo KMP). Apesar disso, tomei TLE e não soube bem como otimizar meu código.
 O código está na pasta Código/CF_EDU134.
 
@@ -156,4 +156,4 @@ Não mexi muito no G porque tinha uma ideia de LCA e eu não fiquei muito confor
 
 Os códigos estão na pasta Códigos/CF_RND805-DIV3.
 
-## TOTAL DE HORAS :: 101 HORAS
+## TOTAL DE HORAS :: 100 HORAS
