@@ -25,11 +25,11 @@ Fiz ao vivo o contest [Educational Codeforces Round 134 (Rated for Div. 2)](http
 O resultado final foi bastante bom, com meu rating no Codeforces passando de 569 para 1030.
 Os códigos estão na pasta Códigos/CF_EDU134.
 
-## 28/AGO (2 horas de upsolving)
+## 28/AGO (3 horas de upsolving)
 Li o editorial do problema E do contest anterior. Até entendi a ideia do problema, que envolvia coisas novas para mim. Estudei um bocado sobre análise de repetição em strings e codei por conta própria um algoritmo para computar a "função prefixo" (baseado no algoritmo KMP). Apesar disso, tomei TLE e não soube bem como otimizar meu código.
 O código está na pasta Código/CF_EDU134.
 
-## 30/AGO (2 horas + 2 horas de upsolving)
+## 30/AGO (2 horas + 3 horas de upsolving)
 Fiz o contest [Codeforces Round #817 (Div. 4)](https://codeforces.com/contest/1722), e passei os problemas de A a D. Foi abaixo do que eu esperava, considerando que os problemas eram bem objetivos e eu me enrolei em algumas coisas básicas. No upsolving fiz os outros 3 problemas, sendo que para a E eu li o editorial: minha solução estava recebendo TLE, e então eu vi que a ideia da solução oficial era realmente mais eficiente que o que eu tinha em mente.
 Os códigos estão na pasta Códigos/CF_RND817-DIV4.
 
@@ -41,7 +41,7 @@ Os códigos estão na pasta Códigos/SEP221C.
 Recomecei do zero o código e passei o sexto problema. O resultado foi bom, considerando que no Div. 3 só uma pessoa passou o sétimo problema e ninguém passou o oitavo.
 O código está na pasta Códigos/SEP221C.
 
-## 12/SET (2 horas + 2 horas de upsolving)
+## 12/SET (2 horas + 1 hora de upsolving)
 Fiz ao vivo o contest [Codeforces Round #820 (Div. 3)](https://codeforces.com/contest/1729), e passei os problemas A, B e D. No C me enrolei muito na hora da prova mas consegui fazer bem rápido no upsolving. O E era bem legal: era um problema interativo e o código precisava ser malandro para passar. Espero o editorial para fazer o upsolving do F e do G, porque são problemas de string e eu tenho mais dificuldades com problemas assim.
 Os códigos estão na pasta Códigos/CF_RND820-DIV3.
 
@@ -92,12 +92,12 @@ Participei ao vivo do contest [Codeforces Round #828 (Div. 3)](http://codeforces
 Passei os problemas A a D e E1. O F pareceu bem interessante (talvez alguma ideia de segtree?) mas não consegui desenvolver muito.
 Os códigos estão na pasta Códigos/CF_RND828-DIV3.
 
-## 17/OUT (1 hora)
+## 17/OUT (2 horas)
 Fiz o upsolving dos problemas E e F desse último contest.
-Para o E era só ajeitar um pouco ideia que eu já tinha tido e para o F eu li o editorial e fiz a solução proposta (que nem era muito técnica).
+Para o E era só ajeitar um pouco ideia que eu já tinha tido e para o F eu li o editorial e fiz a solução proposta.
 Os códigos estão na pasta Códigos/CF_RND828-DIV3.
 
-## 23/OUT (4 horas)
+## 23/OUT (5 horas)
 Fiz ao vivo os contests [Codeforces Round #829 (Div. 2)](https://codeforces.com/contest/1754) e [Codeforces Round #830 (Div. 2)](https://codeforces.com/contest/1732).
 No primeiro, tive um resultado bom, e só não passei o E e o F.
 No segundo, tive um resultado ruim, e só passei o A e o B. O C e o D não eram muito difíceis, e tinham subtasks fáceis, mas mesmo assim eu não consegui desenvolver as ideias organizadas para passá-los.
@@ -156,4 +156,4 @@ Não mexi muito no G porque tinha uma ideia de LCA e eu não fiquei muito confor
 
 Os códigos estão na pasta Códigos/CF_RND805-DIV3.
 
-## TOTAL DE HORAS :: 100 HORAS
+## TOTAL DE HORAS :: 102 HORAS
