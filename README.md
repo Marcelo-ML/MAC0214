@@ -154,6 +154,12 @@ Fiquei agarrado no E por muito tempo porque tinha um caso que eu não tinha cons
 No upsolving, consegui resolver isso e passar o problema. Também dei uma olhada no F (que não era difícil) e consegui passá-lo.
 Não mexi muito no G porque tinha uma ideia de LCA e eu não fiquei muito confortável com as ideias tentando codar LCA.
 
+## 12/DEZ (2 horas + 1 hora de upsolving)
+Fiz o contest [Educational Codeforces Round 139 (Rated for Div. 2)](https://codeforces.com/contest/1766).
+Passei os problemas A, B, C. Passei bastante tempo no D (que era de TN, e vendo como pouca gente estava passando o E e o F achei por bem focar no D) e tive a ideia certa, mas minha solução não estava passando no limite de tempo.
+No upsolving, tentei mudar algumas partes do código para otimizar as constante mas mesmo assim não passou. Depois, usei uma dica do Nathan para fazer um crivo mais esperto e a solução passou em 3993 ms (o limite era 4000 ms) ^^;
+Os códigos estão na pasta Códigos/CF_EDU139.
+
 Os códigos estão na pasta Códigos/CF_RND805-DIV3.
 
-## TOTAL DE HORAS :: 102 HORAS
+## TOTAL DE HORAS :: 105 HORAS
